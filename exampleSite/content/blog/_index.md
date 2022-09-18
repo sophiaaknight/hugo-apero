@@ -16,10 +16,7 @@ sidebar:
   title: Project Portfolio
   description: |
     Data-centric projects from academic study, additional workshops, and personal research.
-    
-    #Check out the _index.md file in the /blog folder 
-    to edit this content. 
-  #author: "The R Markdown Team @RStudio"
+  author: ""
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
   show_sidebar_adunit: true # show ad container
