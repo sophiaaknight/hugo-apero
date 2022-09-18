@@ -129,7 +129,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
-    url = "/project/"
+    url = "/blog/"
     weight = 2
   [[menu.header]]
     name = "CV"
