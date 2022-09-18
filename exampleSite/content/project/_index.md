@@ -1,7 +1,7 @@
 ---
 title: Project Portfolio
 description: "Data-based projects from academic study, additional workshops, and personal research."
-author: "Sophia Knight"
+author: ""
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false
